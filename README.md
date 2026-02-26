@@ -2,9 +2,9 @@
 // Car Dealer Batch Job
 This project is a simple batch job that simulates a car dealership's inventory management system. The batch job processes a list of cars, updates their inventory status, and generates a report consolidated sales to the parent company.
 ## Features
-- Simulates a car dealership's inventory management system.
+- Consolidates sales data from various subsidiary sales companies of the car dealership. 
 - Processes a list of cars and updates their inventory status.
-- Generates a report of the current inventory status.
+- Generates a report on the current inventory status.
 ## Technologies Used
 - Java
 - Spring Batch

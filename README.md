@@ -1,6 +1,6 @@
 # car-dealer
 // Car Dealer Batch Job
-This project is a simple batch job that simulates a car dealership's inventory management system. The batch job processes a list of cars, updates their inventory status, and generates a report.
+This project is a simple batch job that simulates a car dealership's inventory management system. The batch job processes a list of cars, updates their inventory status, and generates a report consolidated sales to the parent company.
 ## Features
 - Simulates a car dealership's inventory management system.
 - Processes a list of cars and updates their inventory status.

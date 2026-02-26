@@ -37,4 +37,4 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ## Acknowledgments
 - Thanks to the Spring Batch community for their support and documentation.
-- Inspired by real-world inventory management systems in the automotive industry.
+
